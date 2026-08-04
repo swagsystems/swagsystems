@@ -20,6 +20,3 @@ I’m open to early-career roles in software development, IT/infrastructure, tec
 - **Frontend:** TypeScript, JavaScript, React, HTML/CSS, responsive and PWA workflows
 - **Engineering practice:** Git, GitHub Actions, automated testing, dependency auditing, incident verification, backup and recovery documentation
 
-## Education
-
-**Bachelor of Science in Computer Science** — anticipated Fall 2028
