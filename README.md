@@ -1,8 +1,6 @@
 # Kyle
 
-Computer Science student and systems-focused developer in Tallahassee, Florida. I build practical software, operate Linux infrastructure, and document the verification path instead of treating deployment as the finish line.
-
-I’m open to early-career roles in software development, IT/infrastructure, technical support, and solutions engineering.
+Computer Science student and systems-focused developer in Florida. I build practical software, operate Linux infrastructure, and document the verification path instead of treating deployment as the finish line.
 
 ## Selected projects
 
