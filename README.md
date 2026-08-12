@@ -17,4 +17,3 @@ Computer Science student and systems-focused developer in Florida. I build pract
 - **Backend and data:** Python, FastAPI, SQLite, REST APIs, MCP, migrations, authentication
 - **Frontend:** TypeScript, JavaScript, React, HTML/CSS, responsive and PWA workflows
 - **Engineering practice:** Git, GitHub Actions, automated testing, dependency auditing, incident verification, backup and recovery documentation
-
